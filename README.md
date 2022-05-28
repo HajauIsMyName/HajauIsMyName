@@ -1,3 +1,5 @@
+<h1 align="center">Hi everyone</h1>
+
 # Info
 
 - Discord : Hậu Không Cãi Bố Mẹ#5692
