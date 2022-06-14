@@ -1,16 +1,23 @@
-<div align=center>
-<img src="https://i.imgur.com/Z3wroRi.png" alt="avatar">
-<h1><strong>Hi everyone, I'm Hau 👋</strong></h1>
-</div>
+<img src="https://readme-typing-svg.herokuapp.com?color=0E3BF7&background=FFFFFF00&center=true&vCenter=true&lines=Hi+everyone%F0%9F%91%8B%2C+I'm+Hau!!!">
 
-# My commonly used programming languages:
-<img src="https://www.python.org/static/img/python-logo.png" width=750px>
-
-
-# Languages and Tools:
-<a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<h1>📋 About Me</h1>
+<ul>
+    <li><h2>Name: <strong>Lâm Hậu</strong></h2></li>
+    <li><h2>Age: <strong>14</strong></h2></li>
+    <li><h2>From: <strong>Vietnam </strong></h2></li>
+</ul>
+<br>
+<h1>💻 Programming Language</h1>
+<a href="https://python.org"><img src="https://learnopencv.com/wp-content/uploads/2021/05/Python_logo.png" height="100px"></a>
+<br>
+<a href="https://nodejs.org/"><img src="https://logos-download.com/wp-content/uploads/2016/09/Node_logo_NodeJS.png" height="200px"></a>
+<br>
+<a herf="https://html.com/"><img src="https://www.pinclipart.com/picdir/big/196-1961930_front-end-html-css-javascript-logo-clipart.png" height="200px"></a>
+<br>
+<br>
+<h1>✉️ Contact Me</h1>
+<a href="https://facebook.com/haudaddy"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white" height="50px"></a>
+<br>
+<a href="https://discord.gg/cNQEYdQYxm"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white" height="55px"></a>
+<br>
+<a href="https://github.com/haunosimp"><img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white" height="55px"></a>
