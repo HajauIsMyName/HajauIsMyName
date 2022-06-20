@@ -23,6 +23,6 @@
 <h1>✉️ Contact Me</h1>
 <a href="https://facebook.com/haudaddy"><img src="https://img.shields.io/badge/Facebook-0077B5?style=for-the-badge&logo=facebook&color=395693&logoColor=white" height="50px"></a>
 <br>
-<a href="https://discord.gg/cNQEYdQYxm"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white" height="55px"></a>
+<a href="https://discord.gg/DUKYBH2p4w"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white" height="55px"></a>
 <br>
 <a href="https://github.com/haunosimp"><img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white" height="55px"></a>
