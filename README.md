@@ -25,4 +25,4 @@
 <br>
 <a href="https://discord.gg/DUKYBH2p4w"><img src="https://img.shields.io/badge/Discord-0077B5?style=for-the-badge&logo=discord&color=5037EA&logoColor=white" height="55px"></a>
 <br>
-<a href="https://github.com/haunosimp"><img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white" height="55px"></a>
+<a href="https://tree-bot.haunosimp.repl.co/"><img src="https://img.shields.io/badge/Website-0077B5?style=for-the-badge&logo=cairometro&color=5037EA&logoColor=white" height="55px"></a>
