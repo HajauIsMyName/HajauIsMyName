@@ -12,3 +12,6 @@
 <br>
 <h1>✉️ Connect with me:</h1>
 <p text-align="left"> <a href="https://www.youtube.com/channel/UC-e89VlRA5b96Gdw9kIIMcg"> <img src="https://logos-brand.com/wp-content/uploads/2020/06/YouTube-emblem.png" alt="Youtube" height="50px"> </a> <a href="https://discord.gg/invites/DUKYBH2p4w"> <img src="https://static.miraheze.org/freshwebsiteswiki/a/af/Discord_Logo.png" alt="Discord" height="50px"> </a> <a href="https://www.instagram.com/haudayne1805/"> <img src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" alt="Instagram" height="50px"> </a> <a href="https://facebook.com/haudaddy"> <img src="https://pnggrid.com/wp-content/uploads/2021/05/Facebook-logo-2021.png" alt="Facebook" height="50px"> </a> </p>
+<br>
+<h2 align="left">Achievements:</h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=haunosimp" alt="christopherbthai" /></a> </p>
