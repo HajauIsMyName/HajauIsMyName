@@ -12,4 +12,4 @@
 <br>
 <h1>✉️ Connect with me:</h1>
 <p text-align: left><a href="https://www.youtube.com/channel/UC-e89VlRA5b96Gdw9kIIMcg"><img src="https://logos-brand.com/wp-content/uploads/2020/06/YouTube-emblem.png" height="50px"></a><a href="https://discord.gg/invites/DUKYBH2p4w"><img src="https://static.miraheze.org/freshwebsiteswiki/a/af/Discord_Logo.png" height="50px"></a>
-<a href="https://www.instagram.com/haudayne1805/"><img src="https://www.manandvanbridport.co.uk/wp-content/uploads/2019/11/new-instagram-logo-png-transparent-800x799.png" height="55px" width="60px"></a><a herf="https://facebook.com/haudaddy"><img src="https://www.transparentpng.com/thumb/facebook-logo-png/facebook-logo-free-png-9.png" height="55px"></a></p>
+<a href="https://www.instagram.com/haudayne1805/"><img src="https://www.manandvanbridport.co.uk/wp-content/uploads/2019/11/new-instagram-logo-png-transparent-800x799.png" height="55px" width="60px"></a><a herf="https://facebook.com/haudaddy"><img src="https://pnggrid.com/wp-content/uploads/2021/05/Facebook-logo-2021.png" height="55px"></a></p>
