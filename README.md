@@ -1,4 +1,4 @@
-<h1 text-align: center>👋 Hi everyone, I'm Hau</h1>
+<h1 align="center">👋 Hi everyone, I'm Hau</h1>
 
 <h1>📋 About Me:</h1>
 <ul>
