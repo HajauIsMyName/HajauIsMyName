@@ -7,7 +7,7 @@
     <li><h2>From: <strong>Vietnam </strong></h2></li>
 </ul>
 <br><br>
-<h2 align="left">🧠 Stats and Info:</h2>
+<h2 align="left">Stats and Info:</h2>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haunosimp&show_icons=true&locale=en&layout=compact" alt="haunosimp" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=haunosimp&show_icons=true&locale=en" alt="haunosimp" />
 <br><br>
 <h1>💻 Languages and Tools:</h1>
