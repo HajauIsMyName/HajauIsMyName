@@ -9,6 +9,7 @@
 <br><br>
 <h2 align="left">Stats and Info:</h2>
 <a href="https://github.com/haunosimp" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haunosimp&show_icons=true&locale=en&layout=compact" alt="Haunosimp" >
+<br>
 <img src="https://github-readme-stats.vercel.app/api?username=haunosimp&show_icons=true&locale=en" alt="Haunosimp"> </a>
 <br><br>
 <h1>💻 Languages and Tools:</h1>
