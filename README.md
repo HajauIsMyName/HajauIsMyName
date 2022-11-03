@@ -7,7 +7,7 @@
 <li><h2>From: <strong>Vietnam </strong></h2></li>
 </ul>
 <hr>
-<h2 align="left">Stats and Info:</h2>
+<h1 align="left">📊 Stats and Info:</h1>
 <a href="https://github.com/HajauIsMyName" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HajauIsMyName&show_icons=true&locale=en&layout=compact" alt="HajauIsMyName" />
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=HajauIsMyName&show_icons=true&locale=en" alt="HajauIsMyName" /> </a>
@@ -44,7 +44,8 @@
 <h1>✉️ Connect with me:</h1>
 <p align="left">
 <a href="https://discord.gg/invite/cpvKMUKQTy" target="_blank"> <img src="image/discord.png" height="auto" width="50px" alt="Discord" /> </a> 
-<a href="https://facebook.com/hajauismyname" target="_blank"> <img src="image/facebook.png" style="height: 50px;" alt="Facebook" /> </a> 
+<a href="https://facebook.com/hajauismyname" target="_blank"> <img src="image/facebook.png" height="auto" width="50px" alt="Facebook" /> </a>
+<a href="https://github.com/hajauismyname" target="_blank"> <img src="image/github.png" height="auto" width="50px" alt="Github" /> </a>
 <a href="https://instagram.com/haudayne1805/" target="_blank"> <img src="image/instagram.png" height="auto" width="50px" alt="Instagram" /> </a>
 <a href="https://youtube.com/channel/UC-e89VlRA5b96Gdw9kIIMcg" target="_blank"> <img src="image/youtube.png" height="auto" width="70px" alt="Youtube" /> </a>
 </p>
