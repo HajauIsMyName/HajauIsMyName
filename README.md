@@ -1,18 +1,29 @@
 <h1 align="center">👋 Hi everyone, I'm Hau</h1>
-<hr>
+
+<br>
+
 <h1>📋 About Me:</h1>
+
 <ul>
 <li><h2>Name: <strong>Lâm Hậu</strong></h2></li>
 <li><h2>Age: <strong>14</strong></h2></li>
 <li><h2>From: <strong>Vietnam </strong></h2></li>
 </ul>
-<hr>
-<h1 align="left">📊 Stats and Info:</h1>
-<a href="https://github.com/HajauIsMyName" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HajauIsMyName&show_icons=true&locale=en&layout=compact" alt="HajauIsMyName" />
+
 <br>
+
+<h1 align="left">📊 Stats and Info:</h1>
+
+<a href="https://github.com/HajauIsMyName" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HajauIsMyName&show_icons=true&locale=en&layout=compact" alt="HajauIsMyName" />
+
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api?username=HajauIsMyName&show_icons=true&locale=en" alt="HajauIsMyName" /> </a>
-<br><br>
+
+<br>
+
 <h1>💻 Languages and Tools:</h1>
+
 <p align="left">
 <a href="https://gnu.org/software/bash/" target="_blank"> <img src="image/bash.png" height="auto" width="50px" alt="Bash" /> </a>
 <a href="https://learn.microsoft.com/vi-vn/cpp/c-language/?view=msvc-150" target="_blank"> <img src="image/c.png" height="auto" width="60px" alt="C" /> </a>
@@ -37,11 +48,17 @@
 <a href="https://rust-lang.org" target="_blank"> <img src="image/rust.png" height="auto" width="50px"alt="Rust" /> </a>
 <a href="https://typescriptlang.org/" target="_blank"> <img src="image/typescript.png" style="height: 50pxp; width: 50px;" alt="Typescript" /> </a>
 </p>
-<hr>
+
+<br>
+
 <h1>🏆 Achievements:</h1>
+
 <img src="https://github-profile-trophy.vercel.app/?username=HajauIsMyName&theme=onedark" />
-<hr>
+
+<br>
+
 <h1>✉️ Connect with me:</h1>
+
 <p align="left">
 <a href="https://discord.gg/invite/cpvKMUKQTy" target="_blank"> <img src="image/discord.png" height="auto" width="50px" alt="Discord" /> </a> 
 <a href="https://facebook.com/hajauismyname" target="_blank"> <img src="image/facebook.png" height="auto" width="50px" alt="Facebook" /> </a>
