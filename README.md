@@ -1,16 +1,16 @@
-<h1 style="text-align: center;">👋 Hi everyone, I'm Hajau</h1>
-<h1 style="margin-top: 50px;">📋 About Me:</h1>
-<ul style="list-style-type: none;">
+<h1 align="center">👋 Hi everyone, I'm Hajau</h1>
+<h1>📋 About Me:</h1>
+<ul>
     <li><h2>Name: <strong>Lâm Hậu (Hajau)</strong></h2></li>
     <li><h2>Age: <strong>15</strong></h2></li>
     <li><h2>From: <strong>Vietnam 🇻🇳</strong></h2></li>
 </ul>
-<h1 style="margin-top: 50px;">📊 Stats and Info:</h1>
+<h1>📊 Stats and Info:</h1>
 <a href="https://github.com/HajauIsMyName" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HajauIsMyName&show_icons=true&locale=en&layout=compact" alt="HajauIsMyName">
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=HajauIsMyName&show_icons=true&locale=en" alt="HajauIsMyName" style="margin-top: 20px;"> </a>
-<h1 style="margin-top: 50px;">💻 Languages and Tools:</h1>
+<h1>💻 Languages and Tools:</h1>
 <p>
     <a href="https://gnu.org/software/bash/" target="_blank">
         <img src="./image/bash.png" height="auto" width="50px" alt="Bash"> 
@@ -83,10 +83,10 @@
     </a>
 </p>
 <br>
-<h1 style="margin-top: 50px;">🏆 Achievements:</h1>
+<h1>🏆 Achievements:</h1>
 <img src="https://github-profile-trophy.vercel.app/?username=HajauIsMyName&theme=onedark">
 <br>
-<h1 style="margin-top: 50px;">✉️ Connect with me:</h1>
+<h1>✉️ Connect with me:</h1>
 <p>
     <a href="https://discord.gg/invite/cpvKMUKQTy" target="_blank">
         <img src="./image/discord.png" height="auto" width="50px" alt="Discord">
